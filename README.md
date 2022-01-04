@@ -2,7 +2,7 @@
 
 <p>I'm an enthusiastic web developer, informatic and web development are my passion </p>
 
-<h2>Tech Stack</h2>
+<h2>💻 My Tech Stack</h2>
 <ul>
   <li>HTML</li>
   <li>CSS</li>
