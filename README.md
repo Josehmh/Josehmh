@@ -1,16 +1,16 @@
-### Hi there 👋
+<H1> 👋Hi!, i'm Jose Humberto Mendez (MERN STACK DEVELOPER)</H1>
 
-<!--
-**Josehmh/josehmh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p>I'm an enthusiastic web developer, informatic and web development are my passion </p>
 
-Here are some ideas to get you started:
+<h2>Tech Stack</h2>
+<ul>
+  <li>HTML</li>
+  <li>CSS</li>
+  <li>JAVASCRIPT</li>
+   <li>REACT.JS</li>
+   <li>NODE.JS</li>
+   <li>EXPRESS.JS</li>
+     <li>GIT</li>
+</ul>  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
