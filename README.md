@@ -12,7 +12,7 @@
    <li>EXPRESS.JS</li>
   <li>GIT</li>
 </ul>  
-<H2>Databases</H2>
+<H2>💾Databases</H2>
 <ul>
   <li>MONGO DB</li>
   <li>MYSQL (BASICS)</li>
